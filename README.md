@@ -1,4 +1,12 @@
-## Hi there 👋
+# **👋Welcome to Timo’s World!**
+
+高中生，暂无开发经验，更多信息等待填写中~*(其实是我懒得写)*
+
+Ciallo～(∠・ω< )⌒★
+
+Email: 1984037902@qq.com
+
+Telegram: @Okamitimo233
 
 <!--
 **okamitimo233/Okamitimo233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
