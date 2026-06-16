@@ -1,6 +1,7 @@
-# **👋Welcome to Timo’s World!**
+# **👋Welcome to Plana’s World!**
 
-高三生，Vibe Coding受害人（），有兴趣可以看看星标仓库,都是实用软件与工具 ~~~更多信息等6月再写吧 *(其实是我想不到写什么)*
+日常摸鱼的学生，Vibe Coding受害人（）
+正在学习开发并做一些简单的小玩具,如果对你有帮助就太好了!
 
 Ciallo～(∠・ω< )⌒★
 
